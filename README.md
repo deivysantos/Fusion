@@ -1,2 +1,2 @@
 # Fusion
-Projeto utilizando Django e o banco de dados PostgreSQL
+Projeto utilizando Django e o banco de dados Redis
